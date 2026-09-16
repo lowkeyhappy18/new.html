@@ -1,0 +1,34 @@
+<html>
+<head>
+    <title>CSS Properties Example</title>
+
+    <style>
+        body {
+            color: white;
+            background-color: navy;
+            font-family: Arial;
+            font-size: 20px;
+            text-align: center;
+            line-height: 1.5;
+            letter-spacing: 2px;
+            word-spacing: 5px;
+            margin: 20px;
+            padding: 20px;
+        }
+
+        h1 {
+            font-weight: bold;
+            font-style: italic;
+            text-decoration: underline;
+            text-transform: uppercase;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>CSS Properties</h1>
+    <p>This is a simple CSS example.</p>
+
+</body>
+</html>
